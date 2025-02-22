@@ -1,9 +1,8 @@
-import React from 'react';
+import React from 'react'
+import Home from './containers/home/home'
 
 function App() {
-  return (
-    <div>Test</div>
-  );
+  return <Home />
 }
 
-export default App;
+export default App
