@@ -1,0 +1,42 @@
+export const countries = [
+  { code: 'all', name: 'Todos os Países', flag: '🌍' },
+  { code: 'BR', name: 'Brasil', flag: '🇧🇷' },
+  { code: 'US', name: 'Estados Unidos', flag: '🇺🇸' },
+  { code: 'PT', name: 'Portugal', flag: '🇵🇹' },
+  { code: 'UK', name: 'Reino Unido', flag: '🇬🇧' },
+  { code: 'DE', name: 'Alemanha', flag: '🇩🇪' },
+  { code: 'CA', name: 'Canadá', flag: '🇨🇦' },
+  { code: 'NL', name: 'Holanda', flag: '🇳🇱' },
+  { code: 'ES', name: 'Espanha', flag: '🇪🇸' },
+  { code: 'AU', name: 'Austrália', flag: '🇦🇺' },
+  { code: 'FR', name: 'França', flag: '🇫🇷' },
+  { code: 'IT', name: 'Itália', flag: '🇮🇹' },
+  { code: 'JP', name: 'Japão', flag: '🇯🇵' },
+  { code: 'IN', name: 'Índia', flag: '🇮🇳' },
+  { code: 'MX', name: 'México', flag: '🇲🇽' },
+  { code: 'AR', name: 'Argentina', flag: '🇦🇷' },
+  { code: 'CO', name: 'Colômbia', flag: '🇨🇴' },
+  { code: 'CL', name: 'Chile', flag: '🇨🇱' },
+  { code: 'ZA', name: 'África do Sul', flag: '🇿🇦' },
+  { code: 'AE', name: 'Emirados Árabes', flag: '🇦🇪' },
+  { code: 'SG', name: 'Singapura', flag: '🇸🇬' },
+  { code: 'IE', name: 'Irlanda', flag: '🇮🇪' },
+  { code: 'NZ', name: 'Nova Zelândia', flag: '🇳🇿' },
+  { code: 'CH', name: 'Suíça', flag: '🇨🇭' },
+  { code: 'SE', name: 'Suécia', flag: '🇸🇪' }
+];
+
+export const sources = [
+  'LinkedIn Jobs',
+  'Vagas.com.br',
+  'InfoJobs',
+  'Empregos.com.br',
+  'DevVagas',
+  'Indeed',
+  'DevJobsScanner',
+  'SlashJobs',
+  'Jooble',
+  'Adzuna',
+  'Whatjobs',
+  'Trabalhe Conosco (Direto)'
+];

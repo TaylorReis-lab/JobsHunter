@@ -1,47 +1,104 @@
-# Getting Started with Create React App
+# Jobs Hunter 2025 - Rastreador de Vagas Tech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 **Jobs Hunter** é o rastreador de vagas para desenvolvedores mais completo, agregando oportunidades reais de múltiplas plataformas de emprego do mundo inteiro.
 
-## Available Scripts
+## ✨ Funcionalidades Principais
 
-In the project directory, you can run:
+### 🌍 Vagas Internacionais
 
-### `npm start`
+- **36 vagas reais** de empresas como Nubank, Netflix, Google, Stripe, Spotify, Meta
+- **12 países**: Brasil, Portugal, EUA, Reino Unido, Alemanha, Canadá, Holanda, Espanha, Austrália, Irlanda, Nova Zelândia
+- **11 fontes**: LinkedIn, Indeed, Gupy, Amazon Jobs, Google Careers, Netflix Jobs, Spotify, Meta Careers, e mais
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### 🔍 Filtros Avançados
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Busca em tempo real** por cargo, empresa ou tecnologia
+- **Filtro por país** com bandeiras (🇧🇷 🇺🇸 🇬🇧 🇵🇹 🇩🇪)
+- **Tipo de contratação**: CLT, PJ, Estágio, Freelancer
+- **Modalidade**: Presencial, Remoto, Híbrido
+- **Tecnologia**: React, Node.js, Python, Java, Go, Kotlin, Swift, etc.
+- **Fonte**: Filtre por plataforma de emprego
 
-### `npm test`
+### 📄 Paginação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **12 cards por página** para melhor performance
+- Navegação intuitiva com números de página
+- Botões "Primeira" e "Última"
 
-### `npm run build`
+### 📱 Modal de Detalhes
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Ao clicar em qualquer vaga:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Logo real da empresa (via Clearbit API)
+- Descrição completa da vaga
+- Lista de requisitos técnicos
+- Todos os benefícios
+- Data de publicação
+- Contador de visualizações
+- Botão direto para candidatura
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🔄 Atualização em Tempo Real
 
-### `npm run eject`
+- Simulação de busca em tempo real a cada alteração de filtro
+- Indicador de "última atualização" (atualiza automaticamente a cada 24 horas)
+- Loading skeletons durante a busca
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### ☕ Buy Me a Coffee
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Botão fixo para apoiar o desenvolvedor via BuyMeACoffee.com/taylorreis
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 💼 Dados Reais de Vagas
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Cada vaga inclui:
 
-## Learn More
+- ✅ **Logo da empresa** (real via API)
+- ✅ **Salário** em moeda local
+- ✅ **Localização** exata
+- ✅ **Requisitos** técnicos detalhados
+- ✅ **Benefícios** completos
+- ✅ **Tecnologias** utilizadas
+- ✅ **Link direto** para candidatura
+- ✅ **Data de publicação**
+- ✅ **Número de visualizações**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🎨 Interface Premium
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# JobsHunter
+- Design moderno com gradientes
+- Animações suaves (Framer Motion)
+- Responsivo para todos os dispositivos
+- Cores por tipo de contratação
+- Badges de "URGENTE" para vagas prioritárias
+- Estatísticas em tempo real no hero
+
+## 👨‍💻 Desenvolvedor
+
+**Criado por**: [Taylor Reis](https://github.com/TaylorReis-lab)
+
+## 🛠️ Tecnologias
+
+- React 19 + TypeScript
+- Tailwind CSS 4
+- Framer Motion (animações)
+- Lucide React (ícones)
+- Vite (build)
+
+## 🚀 Como Usar
+
+1. Acesse o site
+2. Use os filtros para encontrar vagas específicas
+3. Clique em qualquer card para ver detalhes completos
+4. Clique em "Ver Vaga" ou "Candidatar-se" para ir ao site original
+5. Apoie o projeto via "Buy me a coffee" ☕
+
+## 📊 Estatísticas
+
+O dashboard mostra:
+
+- Total de vagas ativas
+- Número de países
+- Quantidade de fontes
+- Média de visualizações por vaga
+
+---
+
+**© 2025 Jobs Hunter - Todos os direitos reservados**
